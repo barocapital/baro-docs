@@ -1,15 +1,13 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Bienvenidos!",
   "about": {
-    "title": "About",
+    "title": "Acerca de Nosotros",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contactanos ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://twitter.com/baro_capital",
     "newWindow": true
   }
 }
