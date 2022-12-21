@@ -1,11 +1,11 @@
 {
-  "index": "Bienvenidos!",
+  "index": "¡Bienvenidos!",
   "about": {
     "title": "Acerca de Nosotros",
     "type": "page"
   },
   "contact": {
-    "title": "Contactanos ↗",
+    "title": "Contáctanos ↗",
     "type": "page",
     "href": "https://twitter.com/baro_capital",
     "newWindow": true
